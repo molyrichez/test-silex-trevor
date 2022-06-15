@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="299" height="57" viewBox="0 0 299 57">
+  <g id="Groupe_194" data-name="Groupe 194" transform="translate(-451.5 -3881.518)">
+    <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(451.5 3881.518)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="1">
+      <rect width="299" height="31" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="298" height="30" rx="4.5" fill="none"/>
+    </g>
+    <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(605.5 3881.518)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="1">
+      <path d="M0,0H139a6,6,0,0,1,6,6V25a6,6,0,0,1-6,6H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H139A5.5,5.5,0,0,1,144.5,6V25a5.5,5.5,0,0,1-5.5,5.5H1A.5.5,0,0,1,.5,30V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <text id="_0.43g_of_CO2_view" data-name="0.43g of CO2/view" transform="translate(462.5 3903.518)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">0.43g of CO2/view</tspan></text>
+    <text id="Website_Carbon" data-name="Website Carbon" transform="translate(617.5 3902.518)" fill="#0a293d" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Website Carbon</tspan></text>
+    <text id="Cleaner_than_73_of_pages_tested" data-name="Cleaner than 73% of pages tested" transform="translate(603.5 3935.518)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="-120" y="0">Cleaner than 73% of pages tested</tspan></text>
+  </g>
+</svg>
